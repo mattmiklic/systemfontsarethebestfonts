@@ -1,8 +1,8 @@
 /* Styles */
 
 body {
-	padding: 0 5% 10px;
-	background: #f7f7f7;
+	padding: 2.5% 5%;
+	background: #fff;
 	max-width: 960px;
 	margin: 0 auto;
 }
@@ -122,11 +122,6 @@ p.note code {
 	section h6 {
 		text-align: left;
 		margin: 1em 0 0;
-	}
-}
-@media screen and (max-width: 400px) {
-	body {
-		padding: 0 1.5% 10px;
 	}
 }
 .section100 p {
